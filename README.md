@@ -157,7 +157,7 @@ The dataset is publicly available through Figshare.
 ---
 
 ## Project Structure
-
+```
 Neurological-Rehabilitation-ML/
 
 │
@@ -172,7 +172,7 @@ Neurological-Rehabilitation-ML/
 │   └── residual_plot.png
 │
 └── requirements.txt
-
+```
 
 ## Note about the use of AI tools
 
