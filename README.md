@@ -178,6 +178,6 @@ Neurological-Rehabilitation-ML/
 
 During this project, I used AI tools as a support resource mainly for learning, debugging parts of the code, and improving the explanations.
 
-The main decisions about the research question, data preparation, model selection, evaluation methods, and interpretation of the results were made by myself.
+The main decisions about the research question, data preparation, model selection, evaluation methods, and interpretation of the results were made independently.
 
 AI tools helped me better understand some technical concepts and improve the workflow, but the analysis process and final conclusions were developed by me.
