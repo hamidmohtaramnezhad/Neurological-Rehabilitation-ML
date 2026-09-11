@@ -161,7 +161,7 @@ The dataset is publicly available through Figshare.
 Neurological-Rehabilitation-ML/
 
 │
-├── Neurological_Rehabilitation_ML.ipynb
+├── neurological_rehabilitation_ml.ipynb
 │
 ├── README.md
 │
